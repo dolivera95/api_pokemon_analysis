@@ -1,0 +1,1596 @@
+pkmn_id|evolve_to_pkmn|evol_req_gender|evol_req_held_item|evol_req_item|evol_req_known_move|evol_req_known_move_type|evol_req_location|evol_req_min_affection|evol_req_min_beauty|evol_req_min_happiness|evol_req_min_level|evol_req_needs_overworld_rain|evol_req_party_species|evol_req_party_type|evol_req_relative_physical_stats|evol_req_time_of_day|evol_req_trade_species|evol_req_turn_upside_down|extraer_datetime
+1|ivysaur||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+1|venusaur||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+2|ivysaur||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+2|venusaur||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+3|ivysaur||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+3|venusaur||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+4|charmeleon||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+4|charizard||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+5|charmeleon||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+5|charizard||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+6|charmeleon||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+6|charizard||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+7|wartortle||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+7|blastoise||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+8|wartortle||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+8|blastoise||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+9|wartortle||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+9|blastoise||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+10|metapod||||||||||7|False||||||False|2024-08-09 10:49:15.051754
+10|butterfree||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+11|metapod||||||||||7|False||||||False|2024-08-09 10:49:15.051754
+11|butterfree||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+12|metapod||||||||||7|False||||||False|2024-08-09 10:49:15.051754
+12|butterfree||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+13|kakuna||||||||||7|False||||||False|2024-08-09 10:49:15.051754
+13|beedrill||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+14|kakuna||||||||||7|False||||||False|2024-08-09 10:49:15.051754
+14|beedrill||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+15|kakuna||||||||||7|False||||||False|2024-08-09 10:49:15.051754
+15|beedrill||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+16|pidgeotto||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+16|pidgeot||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+17|pidgeotto||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+17|pidgeot||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+18|pidgeotto||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+18|pidgeot||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+19|raticate||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+20|raticate||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+21|fearow||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+22|fearow||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+23|arbok||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+24|arbok||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+25|pikachu|||||||||220||False||||||False|2024-08-09 10:49:15.051754
+25|raichu|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+26|pikachu|||||||||220||False||||||False|2024-08-09 10:49:15.051754
+26|raichu|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+27|sandslash||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+28|sandslash||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+29|nidorina||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+29|nidoqueen|||{'name': 'moon-stone', 'url': 'https://pokeapi.co/api/v2/item/81/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+30|nidorina||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+30|nidoqueen|||{'name': 'moon-stone', 'url': 'https://pokeapi.co/api/v2/item/81/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+31|nidorina||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+31|nidoqueen|||{'name': 'moon-stone', 'url': 'https://pokeapi.co/api/v2/item/81/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+32|nidorino||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+32|nidoking|||{'name': 'moon-stone', 'url': 'https://pokeapi.co/api/v2/item/81/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+33|nidorino||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+33|nidoking|||{'name': 'moon-stone', 'url': 'https://pokeapi.co/api/v2/item/81/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+34|nidorino||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+34|nidoking|||{'name': 'moon-stone', 'url': 'https://pokeapi.co/api/v2/item/81/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+35|clefairy|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+35|clefable|||{'name': 'moon-stone', 'url': 'https://pokeapi.co/api/v2/item/81/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+36|clefairy|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+36|clefable|||{'name': 'moon-stone', 'url': 'https://pokeapi.co/api/v2/item/81/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+37|ninetales|||{'name': 'fire-stone', 'url': 'https://pokeapi.co/api/v2/item/82/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+38|ninetales|||{'name': 'fire-stone', 'url': 'https://pokeapi.co/api/v2/item/82/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+39|jigglypuff|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+39|wigglytuff|||{'name': 'moon-stone', 'url': 'https://pokeapi.co/api/v2/item/81/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+40|jigglypuff|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+40|wigglytuff|||{'name': 'moon-stone', 'url': 'https://pokeapi.co/api/v2/item/81/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+41|golbat||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+41|crobat|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+42|golbat||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+42|crobat|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+43|gloom||||||||||21|False||||||False|2024-08-09 10:49:15.051754
+43|vileplume|||{'name': 'leaf-stone', 'url': 'https://pokeapi.co/api/v2/item/85/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+43|bellossom|||{'name': 'sun-stone', 'url': 'https://pokeapi.co/api/v2/item/80/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+44|gloom||||||||||21|False||||||False|2024-08-09 10:49:15.051754
+44|vileplume|||{'name': 'leaf-stone', 'url': 'https://pokeapi.co/api/v2/item/85/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+44|bellossom|||{'name': 'sun-stone', 'url': 'https://pokeapi.co/api/v2/item/80/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+45|gloom||||||||||21|False||||||False|2024-08-09 10:49:15.051754
+45|vileplume|||{'name': 'leaf-stone', 'url': 'https://pokeapi.co/api/v2/item/85/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+45|bellossom|||{'name': 'sun-stone', 'url': 'https://pokeapi.co/api/v2/item/80/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+46|parasect||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+47|parasect||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+48|venomoth||||||||||31|False||||||False|2024-08-09 10:49:15.051754
+49|venomoth||||||||||31|False||||||False|2024-08-09 10:49:15.051754
+50|dugtrio||||||||||26|False||||||False|2024-08-09 10:49:15.051754
+51|dugtrio||||||||||26|False||||||False|2024-08-09 10:49:15.051754
+52|persian||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+52|perrserker||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+53|persian||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+53|perrserker||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+54|golduck||||||||||33|False||||||False|2024-08-09 10:49:15.051754
+55|golduck||||||||||33|False||||||False|2024-08-09 10:49:15.051754
+56|primeape||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+56|annihilape|||||||||||False||||||False|2024-08-09 10:49:15.051754
+57|primeape||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+57|annihilape|||||||||||False||||||False|2024-08-09 10:49:15.051754
+58|arcanine|||{'name': 'fire-stone', 'url': 'https://pokeapi.co/api/v2/item/82/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+59|arcanine|||{'name': 'fire-stone', 'url': 'https://pokeapi.co/api/v2/item/82/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+60|poliwhirl||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+60|poliwrath|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+60|politoed||{'name': 'kings-rock', 'url': 'https://pokeapi.co/api/v2/item/198/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+61|poliwhirl||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+61|poliwrath|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+61|politoed||{'name': 'kings-rock', 'url': 'https://pokeapi.co/api/v2/item/198/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+62|poliwhirl||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+62|poliwrath|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+62|politoed||{'name': 'kings-rock', 'url': 'https://pokeapi.co/api/v2/item/198/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+63|kadabra||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+63|alakazam|||||||||||False||||||False|2024-08-09 10:49:15.051754
+64|kadabra||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+64|alakazam|||||||||||False||||||False|2024-08-09 10:49:15.051754
+65|kadabra||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+65|alakazam|||||||||||False||||||False|2024-08-09 10:49:15.051754
+66|machoke||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+66|machamp|||||||||||False||||||False|2024-08-09 10:49:15.051754
+67|machoke||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+67|machamp|||||||||||False||||||False|2024-08-09 10:49:15.051754
+68|machoke||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+68|machamp|||||||||||False||||||False|2024-08-09 10:49:15.051754
+69|weepinbell||||||||||21|False||||||False|2024-08-09 10:49:15.051754
+69|victreebel|||{'name': 'leaf-stone', 'url': 'https://pokeapi.co/api/v2/item/85/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+70|weepinbell||||||||||21|False||||||False|2024-08-09 10:49:15.051754
+70|victreebel|||{'name': 'leaf-stone', 'url': 'https://pokeapi.co/api/v2/item/85/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+71|weepinbell||||||||||21|False||||||False|2024-08-09 10:49:15.051754
+71|victreebel|||{'name': 'leaf-stone', 'url': 'https://pokeapi.co/api/v2/item/85/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+72|tentacruel||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+73|tentacruel||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+74|graveler||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+74|golem|||||||||||False||||||False|2024-08-09 10:49:15.051754
+75|graveler||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+75|golem|||||||||||False||||||False|2024-08-09 10:49:15.051754
+76|graveler||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+76|golem|||||||||||False||||||False|2024-08-09 10:49:15.051754
+77|rapidash||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+78|rapidash||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+79|slowbro||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+79|slowking||{'name': 'kings-rock', 'url': 'https://pokeapi.co/api/v2/item/198/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+80|slowbro||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+80|slowking||{'name': 'kings-rock', 'url': 'https://pokeapi.co/api/v2/item/198/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+81|magneton||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+81|magnezone||||||{'name': 'mt-coronet', 'url': 'https://pokeapi.co/api/v2/location/10/'}|||||False||||||False|2024-08-09 10:49:15.051754
+82|magneton||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+82|magnezone||||||{'name': 'mt-coronet', 'url': 'https://pokeapi.co/api/v2/location/10/'}|||||False||||||False|2024-08-09 10:49:15.051754
+83|sirfetchd|||||||||||False||||||False|2024-08-09 10:49:15.051754
+84|dodrio||||||||||31|False||||||False|2024-08-09 10:49:15.051754
+85|dodrio||||||||||31|False||||||False|2024-08-09 10:49:15.051754
+86|dewgong||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+87|dewgong||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+88|muk||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+89|muk||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+90|cloyster|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+91|cloyster|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+92|haunter||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+92|gengar|||||||||||False||||||False|2024-08-09 10:49:15.051754
+93|haunter||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+93|gengar|||||||||||False||||||False|2024-08-09 10:49:15.051754
+94|haunter||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+94|gengar|||||||||||False||||||False|2024-08-09 10:49:15.051754
+95|steelix||{'name': 'metal-coat', 'url': 'https://pokeapi.co/api/v2/item/210/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+96|hypno||||||||||26|False||||||False|2024-08-09 10:49:15.051754
+97|hypno||||||||||26|False||||||False|2024-08-09 10:49:15.051754
+98|kingler||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+99|kingler||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+100|electrode||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+101|electrode||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+102|exeggutor|||{'name': 'leaf-stone', 'url': 'https://pokeapi.co/api/v2/item/85/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+103|exeggutor|||{'name': 'leaf-stone', 'url': 'https://pokeapi.co/api/v2/item/85/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+104|marowak||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+105|marowak||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+106|hitmonlee||||||||||20|False|||1|||False|2024-08-09 10:49:15.051754
+106|hitmonchan||||||||||20|False|||-1|||False|2024-08-09 10:49:15.051754
+106|hitmontop||||||||||20|False|||0|||False|2024-08-09 10:49:15.051754
+107|hitmonlee||||||||||20|False|||1|||False|2024-08-09 10:49:15.051754
+107|hitmonchan||||||||||20|False|||-1|||False|2024-08-09 10:49:15.051754
+107|hitmontop||||||||||20|False|||0|||False|2024-08-09 10:49:15.051754
+108|lickilicky||||{'name': 'rollout', 'url': 'https://pokeapi.co/api/v2/move/205/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+109|weezing||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+110|weezing||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+111|rhydon||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+111|rhyperior||{'name': 'protector', 'url': 'https://pokeapi.co/api/v2/item/298/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+112|rhydon||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+112|rhyperior||{'name': 'protector', 'url': 'https://pokeapi.co/api/v2/item/298/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+113|chansey||{'name': 'oval-stone', 'url': 'https://pokeapi.co/api/v2/item/110/'}|||||||||False||||day||False|2024-08-09 10:49:15.051754
+113|blissey|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+114|tangrowth||||{'name': 'ancient-power', 'url': 'https://pokeapi.co/api/v2/move/246/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+116|seadra||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+116|kingdra||{'name': 'dragon-scale', 'url': 'https://pokeapi.co/api/v2/item/212/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+117|seadra||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+117|kingdra||{'name': 'dragon-scale', 'url': 'https://pokeapi.co/api/v2/item/212/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+118|seaking||||||||||33|False||||||False|2024-08-09 10:49:15.051754
+119|seaking||||||||||33|False||||||False|2024-08-09 10:49:15.051754
+120|starmie|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+121|starmie|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+122|mr-mime||||{'name': 'mimic', 'url': 'https://pokeapi.co/api/v2/move/102/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+122|mr-rime||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+123|scizor||{'name': 'metal-coat', 'url': 'https://pokeapi.co/api/v2/item/210/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+123|kleavor|||{'name': 'black-augurite', 'url': 'https://pokeapi.co/api/v2/item/10001/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+124|jynx||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+125|electabuzz||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+125|electivire||{'name': 'electirizer', 'url': 'https://pokeapi.co/api/v2/item/299/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+126|magmar||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+126|magmortar||{'name': 'magmarizer', 'url': 'https://pokeapi.co/api/v2/item/300/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+129|gyarados||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+130|gyarados||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+133|vaporeon|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+133|jolteon|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+133|flareon|||{'name': 'fire-stone', 'url': 'https://pokeapi.co/api/v2/item/82/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+133|espeon|||||||||160||False||||day||False|2024-08-09 10:49:15.051754
+133|umbreon|||||||||160||False||||night||False|2024-08-09 10:49:15.051754
+133|leafeon||||||{'name': 'eterna-forest', 'url': 'https://pokeapi.co/api/v2/location/8/'}|||||False||||||False|2024-08-09 10:49:15.051754
+133|glaceon||||||{'name': 'sinnoh-route-217', 'url': 'https://pokeapi.co/api/v2/location/48/'}|||||False||||||False|2024-08-09 10:49:15.051754
+133|sylveon|||||{'name': 'fairy', 'url': 'https://pokeapi.co/api/v2/type/18/'}||2||||False||||||False|2024-08-09 10:49:15.051754
+134|vaporeon|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+134|jolteon|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+134|flareon|||{'name': 'fire-stone', 'url': 'https://pokeapi.co/api/v2/item/82/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+134|espeon|||||||||160||False||||day||False|2024-08-09 10:49:15.051754
+134|umbreon|||||||||160||False||||night||False|2024-08-09 10:49:15.051754
+134|leafeon||||||{'name': 'eterna-forest', 'url': 'https://pokeapi.co/api/v2/location/8/'}|||||False||||||False|2024-08-09 10:49:15.051754
+134|glaceon||||||{'name': 'sinnoh-route-217', 'url': 'https://pokeapi.co/api/v2/location/48/'}|||||False||||||False|2024-08-09 10:49:15.051754
+134|sylveon|||||{'name': 'fairy', 'url': 'https://pokeapi.co/api/v2/type/18/'}||2||||False||||||False|2024-08-09 10:49:15.051754
+135|vaporeon|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+135|jolteon|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+135|flareon|||{'name': 'fire-stone', 'url': 'https://pokeapi.co/api/v2/item/82/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+135|espeon|||||||||160||False||||day||False|2024-08-09 10:49:15.051754
+135|umbreon|||||||||160||False||||night||False|2024-08-09 10:49:15.051754
+135|leafeon||||||{'name': 'eterna-forest', 'url': 'https://pokeapi.co/api/v2/location/8/'}|||||False||||||False|2024-08-09 10:49:15.051754
+135|glaceon||||||{'name': 'sinnoh-route-217', 'url': 'https://pokeapi.co/api/v2/location/48/'}|||||False||||||False|2024-08-09 10:49:15.051754
+135|sylveon|||||{'name': 'fairy', 'url': 'https://pokeapi.co/api/v2/type/18/'}||2||||False||||||False|2024-08-09 10:49:15.051754
+136|vaporeon|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+136|jolteon|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+136|flareon|||{'name': 'fire-stone', 'url': 'https://pokeapi.co/api/v2/item/82/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+136|espeon|||||||||160||False||||day||False|2024-08-09 10:49:15.051754
+136|umbreon|||||||||160||False||||night||False|2024-08-09 10:49:15.051754
+136|leafeon||||||{'name': 'eterna-forest', 'url': 'https://pokeapi.co/api/v2/location/8/'}|||||False||||||False|2024-08-09 10:49:15.051754
+136|glaceon||||||{'name': 'sinnoh-route-217', 'url': 'https://pokeapi.co/api/v2/location/48/'}|||||False||||||False|2024-08-09 10:49:15.051754
+136|sylveon|||||{'name': 'fairy', 'url': 'https://pokeapi.co/api/v2/type/18/'}||2||||False||||||False|2024-08-09 10:49:15.051754
+137|porygon2||{'name': 'up-grade', 'url': 'https://pokeapi.co/api/v2/item/229/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+137|porygon-z||{'name': 'dubious-disc', 'url': 'https://pokeapi.co/api/v2/item/301/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+138|omastar||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+139|omastar||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+140|kabutops||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+141|kabutops||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+143|snorlax|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+147|dragonair||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+147|dragonite||||||||||55|False||||||False|2024-08-09 10:49:15.051754
+148|dragonair||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+148|dragonite||||||||||55|False||||||False|2024-08-09 10:49:15.051754
+149|dragonair||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+149|dragonite||||||||||55|False||||||False|2024-08-09 10:49:15.051754
+152|bayleef||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+152|meganium||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+153|bayleef||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+153|meganium||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+154|bayleef||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+154|meganium||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+155|quilava||||||||||14|False||||||False|2024-08-09 10:49:15.051754
+155|typhlosion||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+156|quilava||||||||||14|False||||||False|2024-08-09 10:49:15.051754
+156|typhlosion||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+157|quilava||||||||||14|False||||||False|2024-08-09 10:49:15.051754
+157|typhlosion||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+158|croconaw||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+158|feraligatr||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+159|croconaw||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+159|feraligatr||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+160|croconaw||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+160|feraligatr||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+161|furret||||||||||15|False||||||False|2024-08-09 10:49:15.051754
+162|furret||||||||||15|False||||||False|2024-08-09 10:49:15.051754
+163|noctowl||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+164|noctowl||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+165|ledian||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+166|ledian||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+167|ariados||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+168|ariados||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+169|golbat||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+169|crobat|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+170|lanturn||||||||||27|False||||||False|2024-08-09 10:49:15.051754
+171|lanturn||||||||||27|False||||||False|2024-08-09 10:49:15.051754
+172|pikachu|||||||||220||False||||||False|2024-08-09 10:49:15.051754
+172|raichu|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+173|clefairy|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+173|clefable|||{'name': 'moon-stone', 'url': 'https://pokeapi.co/api/v2/item/81/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+174|jigglypuff|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+174|wigglytuff|||{'name': 'moon-stone', 'url': 'https://pokeapi.co/api/v2/item/81/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+175|togetic|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+175|togekiss|||{'name': 'shiny-stone', 'url': 'https://pokeapi.co/api/v2/item/107/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+176|togetic|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+176|togekiss|||{'name': 'shiny-stone', 'url': 'https://pokeapi.co/api/v2/item/107/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+177|xatu||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+178|xatu||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+179|flaaffy||||||||||15|False||||||False|2024-08-09 10:49:15.051754
+179|ampharos||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+180|flaaffy||||||||||15|False||||||False|2024-08-09 10:49:15.051754
+180|ampharos||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+181|flaaffy||||||||||15|False||||||False|2024-08-09 10:49:15.051754
+181|ampharos||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+182|gloom||||||||||21|False||||||False|2024-08-09 10:49:15.051754
+182|vileplume|||{'name': 'leaf-stone', 'url': 'https://pokeapi.co/api/v2/item/85/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+182|bellossom|||{'name': 'sun-stone', 'url': 'https://pokeapi.co/api/v2/item/80/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+183|marill|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+183|azumarill||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+184|marill|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+184|azumarill||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+185|sudowoodo||||{'name': 'mimic', 'url': 'https://pokeapi.co/api/v2/move/102/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+186|poliwhirl||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+186|poliwrath|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+186|politoed||{'name': 'kings-rock', 'url': 'https://pokeapi.co/api/v2/item/198/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+187|skiploom||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+187|jumpluff||||||||||27|False||||||False|2024-08-09 10:49:15.051754
+188|skiploom||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+188|jumpluff||||||||||27|False||||||False|2024-08-09 10:49:15.051754
+189|skiploom||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+189|jumpluff||||||||||27|False||||||False|2024-08-09 10:49:15.051754
+190|ambipom||||{'name': 'double-hit', 'url': 'https://pokeapi.co/api/v2/move/458/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+191|sunflora|||{'name': 'sun-stone', 'url': 'https://pokeapi.co/api/v2/item/80/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+192|sunflora|||{'name': 'sun-stone', 'url': 'https://pokeapi.co/api/v2/item/80/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+193|yanmega||||{'name': 'ancient-power', 'url': 'https://pokeapi.co/api/v2/move/246/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+194|quagsire||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+194|clodsire||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+195|quagsire||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+195|clodsire||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+196|vaporeon|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+196|jolteon|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+196|flareon|||{'name': 'fire-stone', 'url': 'https://pokeapi.co/api/v2/item/82/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+196|espeon|||||||||160||False||||day||False|2024-08-09 10:49:15.051754
+196|umbreon|||||||||160||False||||night||False|2024-08-09 10:49:15.051754
+196|leafeon||||||{'name': 'eterna-forest', 'url': 'https://pokeapi.co/api/v2/location/8/'}|||||False||||||False|2024-08-09 10:49:15.051754
+196|glaceon||||||{'name': 'sinnoh-route-217', 'url': 'https://pokeapi.co/api/v2/location/48/'}|||||False||||||False|2024-08-09 10:49:15.051754
+196|sylveon|||||{'name': 'fairy', 'url': 'https://pokeapi.co/api/v2/type/18/'}||2||||False||||||False|2024-08-09 10:49:15.051754
+197|vaporeon|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+197|jolteon|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+197|flareon|||{'name': 'fire-stone', 'url': 'https://pokeapi.co/api/v2/item/82/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+197|espeon|||||||||160||False||||day||False|2024-08-09 10:49:15.051754
+197|umbreon|||||||||160||False||||night||False|2024-08-09 10:49:15.051754
+197|leafeon||||||{'name': 'eterna-forest', 'url': 'https://pokeapi.co/api/v2/location/8/'}|||||False||||||False|2024-08-09 10:49:15.051754
+197|glaceon||||||{'name': 'sinnoh-route-217', 'url': 'https://pokeapi.co/api/v2/location/48/'}|||||False||||||False|2024-08-09 10:49:15.051754
+197|sylveon|||||{'name': 'fairy', 'url': 'https://pokeapi.co/api/v2/type/18/'}||2||||False||||||False|2024-08-09 10:49:15.051754
+198|honchkrow|||{'name': 'dusk-stone', 'url': 'https://pokeapi.co/api/v2/item/108/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+199|slowbro||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+199|slowking||{'name': 'kings-rock', 'url': 'https://pokeapi.co/api/v2/item/198/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+200|mismagius|||{'name': 'dusk-stone', 'url': 'https://pokeapi.co/api/v2/item/108/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+202|wobbuffet||||||||||15|False||||||False|2024-08-09 10:49:15.051754
+203|farigiraf||||{'name': 'twin-beam', 'url': 'https://pokeapi.co/api/v2/move/888/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+204|forretress||||||||||31|False||||||False|2024-08-09 10:49:15.051754
+205|forretress||||||||||31|False||||||False|2024-08-09 10:49:15.051754
+206|dudunsparce||||{'name': 'hyper-drill', 'url': 'https://pokeapi.co/api/v2/move/887/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+207|gliscor||{'name': 'razor-fang', 'url': 'https://pokeapi.co/api/v2/item/304/'}|||||||||False||||night||False|2024-08-09 10:49:15.051754
+208|steelix||{'name': 'metal-coat', 'url': 'https://pokeapi.co/api/v2/item/210/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+209|granbull||||||||||23|False||||||False|2024-08-09 10:49:15.051754
+210|granbull||||||||||23|False||||||False|2024-08-09 10:49:15.051754
+211|overqwil||||{'name': 'barb-barrage', 'url': 'https://pokeapi.co/api/v2/move/839/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+212|scizor||{'name': 'metal-coat', 'url': 'https://pokeapi.co/api/v2/item/210/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+212|kleavor|||{'name': 'black-augurite', 'url': 'https://pokeapi.co/api/v2/item/10001/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+215|weavile||{'name': 'razor-claw', 'url': 'https://pokeapi.co/api/v2/item/303/'}|||||||||False||||night||False|2024-08-09 10:49:15.051754
+215|sneasler||{'name': 'razor-claw', 'url': 'https://pokeapi.co/api/v2/item/303/'}|||||||||False||||day||False|2024-08-09 10:49:15.051754
+216|ursaring||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+216|ursaluna|||{'name': 'peat-block', 'url': 'https://pokeapi.co/api/v2/item/10002/'}||||||||False||||full-moon||False|2024-08-09 10:49:15.051754
+217|ursaring||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+217|ursaluna|||{'name': 'peat-block', 'url': 'https://pokeapi.co/api/v2/item/10002/'}||||||||False||||full-moon||False|2024-08-09 10:49:15.051754
+218|magcargo||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+219|magcargo||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+220|piloswine||||||||||33|False||||||False|2024-08-09 10:49:15.051754
+220|mamoswine||||{'name': 'ancient-power', 'url': 'https://pokeapi.co/api/v2/move/246/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+221|piloswine||||||||||33|False||||||False|2024-08-09 10:49:15.051754
+221|mamoswine||||{'name': 'ancient-power', 'url': 'https://pokeapi.co/api/v2/move/246/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+222|cursola||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+223|octillery||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+224|octillery||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+226|mantine|||||||||||False|{'name': 'remoraid', 'url': 'https://pokeapi.co/api/v2/pokemon-species/223/'}|||||False|2024-08-09 10:49:15.051754
+228|houndoom||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+229|houndoom||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+230|seadra||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+230|kingdra||{'name': 'dragon-scale', 'url': 'https://pokeapi.co/api/v2/item/212/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+231|donphan||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+232|donphan||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+233|porygon2||{'name': 'up-grade', 'url': 'https://pokeapi.co/api/v2/item/229/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+233|porygon-z||{'name': 'dubious-disc', 'url': 'https://pokeapi.co/api/v2/item/301/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+234|wyrdeer||||{'name': 'psyshield-bash', 'url': 'https://pokeapi.co/api/v2/move/828/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+236|hitmonlee||||||||||20|False|||1|||False|2024-08-09 10:49:15.051754
+236|hitmonchan||||||||||20|False|||-1|||False|2024-08-09 10:49:15.051754
+236|hitmontop||||||||||20|False|||0|||False|2024-08-09 10:49:15.051754
+237|hitmonlee||||||||||20|False|||1|||False|2024-08-09 10:49:15.051754
+237|hitmonchan||||||||||20|False|||-1|||False|2024-08-09 10:49:15.051754
+237|hitmontop||||||||||20|False|||0|||False|2024-08-09 10:49:15.051754
+238|jynx||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+239|electabuzz||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+239|electivire||{'name': 'electirizer', 'url': 'https://pokeapi.co/api/v2/item/299/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+240|magmar||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+240|magmortar||{'name': 'magmarizer', 'url': 'https://pokeapi.co/api/v2/item/300/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+242|chansey||{'name': 'oval-stone', 'url': 'https://pokeapi.co/api/v2/item/110/'}|||||||||False||||day||False|2024-08-09 10:49:15.051754
+242|blissey|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+246|pupitar||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+246|tyranitar||||||||||55|False||||||False|2024-08-09 10:49:15.051754
+247|pupitar||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+247|tyranitar||||||||||55|False||||||False|2024-08-09 10:49:15.051754
+248|pupitar||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+248|tyranitar||||||||||55|False||||||False|2024-08-09 10:49:15.051754
+252|grovyle||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+252|sceptile||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+253|grovyle||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+253|sceptile||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+254|grovyle||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+254|sceptile||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+255|combusken||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+255|blaziken||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+256|combusken||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+256|blaziken||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+257|combusken||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+257|blaziken||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+258|marshtomp||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+258|swampert||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+259|marshtomp||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+259|swampert||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+260|marshtomp||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+260|swampert||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+261|mightyena||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+262|mightyena||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+263|linoone||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+263|obstagoon||||||||||35|False||||night||False|2024-08-09 10:49:15.051754
+264|linoone||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+264|obstagoon||||||||||35|False||||night||False|2024-08-09 10:49:15.051754
+265|silcoon||||||||||7|False||||||False|2024-08-09 10:49:15.051754
+265|beautifly||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+265|cascoon||||||||||7|False||||||False|2024-08-09 10:49:15.051754
+265|dustox||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+266|silcoon||||||||||7|False||||||False|2024-08-09 10:49:15.051754
+266|beautifly||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+266|cascoon||||||||||7|False||||||False|2024-08-09 10:49:15.051754
+266|dustox||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+267|silcoon||||||||||7|False||||||False|2024-08-09 10:49:15.051754
+267|beautifly||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+267|cascoon||||||||||7|False||||||False|2024-08-09 10:49:15.051754
+267|dustox||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+268|silcoon||||||||||7|False||||||False|2024-08-09 10:49:15.051754
+268|beautifly||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+268|cascoon||||||||||7|False||||||False|2024-08-09 10:49:15.051754
+268|dustox||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+269|silcoon||||||||||7|False||||||False|2024-08-09 10:49:15.051754
+269|beautifly||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+269|cascoon||||||||||7|False||||||False|2024-08-09 10:49:15.051754
+269|dustox||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+270|lombre||||||||||14|False||||||False|2024-08-09 10:49:15.051754
+270|ludicolo|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+271|lombre||||||||||14|False||||||False|2024-08-09 10:49:15.051754
+271|ludicolo|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+272|lombre||||||||||14|False||||||False|2024-08-09 10:49:15.051754
+272|ludicolo|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+273|nuzleaf||||||||||14|False||||||False|2024-08-09 10:49:15.051754
+273|shiftry|||{'name': 'leaf-stone', 'url': 'https://pokeapi.co/api/v2/item/85/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+274|nuzleaf||||||||||14|False||||||False|2024-08-09 10:49:15.051754
+274|shiftry|||{'name': 'leaf-stone', 'url': 'https://pokeapi.co/api/v2/item/85/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+275|nuzleaf||||||||||14|False||||||False|2024-08-09 10:49:15.051754
+275|shiftry|||{'name': 'leaf-stone', 'url': 'https://pokeapi.co/api/v2/item/85/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+276|swellow||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+277|swellow||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+278|pelipper||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+279|pelipper||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+280|kirlia||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+280|gardevoir||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+280|gallade|2||{'name': 'dawn-stone', 'url': 'https://pokeapi.co/api/v2/item/109/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+281|kirlia||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+281|gardevoir||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+281|gallade|2||{'name': 'dawn-stone', 'url': 'https://pokeapi.co/api/v2/item/109/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+282|kirlia||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+282|gardevoir||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+282|gallade|2||{'name': 'dawn-stone', 'url': 'https://pokeapi.co/api/v2/item/109/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+283|masquerain||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+284|masquerain||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+285|breloom||||||||||23|False||||||False|2024-08-09 10:49:15.051754
+286|breloom||||||||||23|False||||||False|2024-08-09 10:49:15.051754
+287|vigoroth||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+287|slaking||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+288|vigoroth||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+288|slaking||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+289|vigoroth||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+289|slaking||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+290|ninjask||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+290|shedinja|||||||||||False||||||False|2024-08-09 10:49:15.051754
+291|ninjask||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+291|shedinja|||||||||||False||||||False|2024-08-09 10:49:15.051754
+292|ninjask||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+292|shedinja|||||||||||False||||||False|2024-08-09 10:49:15.051754
+293|loudred||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+293|exploud||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+294|loudred||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+294|exploud||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+295|loudred||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+295|exploud||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+296|hariyama||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+297|hariyama||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+298|marill|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+298|azumarill||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+299|probopass||||||{'name': 'mt-coronet', 'url': 'https://pokeapi.co/api/v2/location/10/'}|||||False||||||False|2024-08-09 10:49:15.051754
+300|delcatty|||{'name': 'moon-stone', 'url': 'https://pokeapi.co/api/v2/item/81/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+301|delcatty|||{'name': 'moon-stone', 'url': 'https://pokeapi.co/api/v2/item/81/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+304|lairon||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+304|aggron||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+305|lairon||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+305|aggron||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+306|lairon||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+306|aggron||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+307|medicham||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+308|medicham||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+309|manectric||||||||||26|False||||||False|2024-08-09 10:49:15.051754
+310|manectric||||||||||26|False||||||False|2024-08-09 10:49:15.051754
+315|roselia|||||||||160||False||||day||False|2024-08-09 10:49:15.051754
+315|roserade|||{'name': 'shiny-stone', 'url': 'https://pokeapi.co/api/v2/item/107/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+316|swalot||||||||||26|False||||||False|2024-08-09 10:49:15.051754
+317|swalot||||||||||26|False||||||False|2024-08-09 10:49:15.051754
+318|sharpedo||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+319|sharpedo||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+320|wailord||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+321|wailord||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+322|camerupt||||||||||33|False||||||False|2024-08-09 10:49:15.051754
+323|camerupt||||||||||33|False||||||False|2024-08-09 10:49:15.051754
+325|grumpig||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+326|grumpig||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+328|vibrava||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+328|flygon||||||||||45|False||||||False|2024-08-09 10:49:15.051754
+329|vibrava||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+329|flygon||||||||||45|False||||||False|2024-08-09 10:49:15.051754
+330|vibrava||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+330|flygon||||||||||45|False||||||False|2024-08-09 10:49:15.051754
+331|cacturne||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+332|cacturne||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+333|altaria||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+334|altaria||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+339|whiscash||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+340|whiscash||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+341|crawdaunt||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+342|crawdaunt||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+343|claydol||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+344|claydol||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+345|cradily||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+346|cradily||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+347|armaldo||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+348|armaldo||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+349|milotic||||||||171|||False||||||False|2024-08-09 10:49:15.051754
+350|milotic||||||||171|||False||||||False|2024-08-09 10:49:15.051754
+353|banette||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+354|banette||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+355|dusclops||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+355|dusknoir||{'name': 'reaper-cloth', 'url': 'https://pokeapi.co/api/v2/item/302/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+356|dusclops||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+356|dusknoir||{'name': 'reaper-cloth', 'url': 'https://pokeapi.co/api/v2/item/302/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+358|chimecho|||||||||220||False||||night||False|2024-08-09 10:49:15.051754
+360|wobbuffet||||||||||15|False||||||False|2024-08-09 10:49:15.051754
+361|glalie||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+361|froslass|1||{'name': 'dawn-stone', 'url': 'https://pokeapi.co/api/v2/item/109/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+362|glalie||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+362|froslass|1||{'name': 'dawn-stone', 'url': 'https://pokeapi.co/api/v2/item/109/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+363|sealeo||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+363|walrein||||||||||44|False||||||False|2024-08-09 10:49:15.051754
+364|sealeo||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+364|walrein||||||||||44|False||||||False|2024-08-09 10:49:15.051754
+365|sealeo||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+365|walrein||||||||||44|False||||||False|2024-08-09 10:49:15.051754
+366|huntail||{'name': 'deep-sea-tooth', 'url': 'https://pokeapi.co/api/v2/item/203/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+366|gorebyss||{'name': 'deep-sea-scale', 'url': 'https://pokeapi.co/api/v2/item/204/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+367|huntail||{'name': 'deep-sea-tooth', 'url': 'https://pokeapi.co/api/v2/item/203/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+367|gorebyss||{'name': 'deep-sea-scale', 'url': 'https://pokeapi.co/api/v2/item/204/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+368|huntail||{'name': 'deep-sea-tooth', 'url': 'https://pokeapi.co/api/v2/item/203/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+368|gorebyss||{'name': 'deep-sea-scale', 'url': 'https://pokeapi.co/api/v2/item/204/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+371|shelgon||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+371|salamence||||||||||50|False||||||False|2024-08-09 10:49:15.051754
+372|shelgon||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+372|salamence||||||||||50|False||||||False|2024-08-09 10:49:15.051754
+373|shelgon||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+373|salamence||||||||||50|False||||||False|2024-08-09 10:49:15.051754
+374|metang||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+374|metagross||||||||||45|False||||||False|2024-08-09 10:49:15.051754
+375|metang||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+375|metagross||||||||||45|False||||||False|2024-08-09 10:49:15.051754
+376|metang||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+376|metagross||||||||||45|False||||||False|2024-08-09 10:49:15.051754
+387|grotle||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+387|torterra||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+388|grotle||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+388|torterra||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+389|grotle||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+389|torterra||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+390|monferno||||||||||14|False||||||False|2024-08-09 10:49:15.051754
+390|infernape||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+391|monferno||||||||||14|False||||||False|2024-08-09 10:49:15.051754
+391|infernape||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+392|monferno||||||||||14|False||||||False|2024-08-09 10:49:15.051754
+392|infernape||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+393|prinplup||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+393|empoleon||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+394|prinplup||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+394|empoleon||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+395|prinplup||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+395|empoleon||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+396|staravia||||||||||14|False||||||False|2024-08-09 10:49:15.051754
+396|staraptor||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+397|staravia||||||||||14|False||||||False|2024-08-09 10:49:15.051754
+397|staraptor||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+398|staravia||||||||||14|False||||||False|2024-08-09 10:49:15.051754
+398|staraptor||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+399|bibarel||||||||||15|False||||||False|2024-08-09 10:49:15.051754
+400|bibarel||||||||||15|False||||||False|2024-08-09 10:49:15.051754
+401|kricketune||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+402|kricketune||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+403|luxio||||||||||15|False||||||False|2024-08-09 10:49:15.051754
+403|luxray||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+404|luxio||||||||||15|False||||||False|2024-08-09 10:49:15.051754
+404|luxray||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+405|luxio||||||||||15|False||||||False|2024-08-09 10:49:15.051754
+405|luxray||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+406|roselia|||||||||160||False||||day||False|2024-08-09 10:49:15.051754
+406|roserade|||{'name': 'shiny-stone', 'url': 'https://pokeapi.co/api/v2/item/107/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+407|roselia|||||||||160||False||||day||False|2024-08-09 10:49:15.051754
+407|roserade|||{'name': 'shiny-stone', 'url': 'https://pokeapi.co/api/v2/item/107/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+408|rampardos||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+409|rampardos||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+410|bastiodon||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+411|bastiodon||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+412|wormadam|1|||||||||20|False||||||False|2024-08-09 10:49:15.051754
+412|mothim|2|||||||||20|False||||||False|2024-08-09 10:49:15.051754
+413|wormadam|1|||||||||20|False||||||False|2024-08-09 10:49:15.051754
+413|mothim|2|||||||||20|False||||||False|2024-08-09 10:49:15.051754
+414|wormadam|1|||||||||20|False||||||False|2024-08-09 10:49:15.051754
+414|mothim|2|||||||||20|False||||||False|2024-08-09 10:49:15.051754
+415|vespiquen|1|||||||||21|False||||||False|2024-08-09 10:49:15.051754
+416|vespiquen|1|||||||||21|False||||||False|2024-08-09 10:49:15.051754
+418|floatzel||||||||||26|False||||||False|2024-08-09 10:49:15.051754
+419|floatzel||||||||||26|False||||||False|2024-08-09 10:49:15.051754
+420|cherrim||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+421|cherrim||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+422|gastrodon||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+423|gastrodon||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+424|ambipom||||{'name': 'double-hit', 'url': 'https://pokeapi.co/api/v2/move/458/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+425|drifblim||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+426|drifblim||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+427|lopunny|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+428|lopunny|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+429|mismagius|||{'name': 'dusk-stone', 'url': 'https://pokeapi.co/api/v2/item/108/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+430|honchkrow|||{'name': 'dusk-stone', 'url': 'https://pokeapi.co/api/v2/item/108/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+431|purugly||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+432|purugly||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+433|chimecho|||||||||220||False||||night||False|2024-08-09 10:49:15.051754
+434|skuntank||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+435|skuntank||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+436|bronzong||||||||||33|False||||||False|2024-08-09 10:49:15.051754
+437|bronzong||||||||||33|False||||||False|2024-08-09 10:49:15.051754
+438|sudowoodo||||{'name': 'mimic', 'url': 'https://pokeapi.co/api/v2/move/102/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+439|mr-mime||||{'name': 'mimic', 'url': 'https://pokeapi.co/api/v2/move/102/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+439|mr-rime||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+440|chansey||{'name': 'oval-stone', 'url': 'https://pokeapi.co/api/v2/item/110/'}|||||||||False||||day||False|2024-08-09 10:49:15.051754
+440|blissey|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+443|gabite||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+443|garchomp||||||||||48|False||||||False|2024-08-09 10:49:15.051754
+444|gabite||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+444|garchomp||||||||||48|False||||||False|2024-08-09 10:49:15.051754
+445|gabite||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+445|garchomp||||||||||48|False||||||False|2024-08-09 10:49:15.051754
+446|snorlax|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+447|lucario|||||||||160||False||||day||False|2024-08-09 10:49:15.051754
+448|lucario|||||||||160||False||||day||False|2024-08-09 10:49:15.051754
+449|hippowdon||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+450|hippowdon||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+451|drapion||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+452|drapion||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+453|toxicroak||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+454|toxicroak||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+456|lumineon||||||||||31|False||||||False|2024-08-09 10:49:15.051754
+457|lumineon||||||||||31|False||||||False|2024-08-09 10:49:15.051754
+458|mantine|||||||||||False|{'name': 'remoraid', 'url': 'https://pokeapi.co/api/v2/pokemon-species/223/'}|||||False|2024-08-09 10:49:15.051754
+459|abomasnow||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+460|abomasnow||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+461|weavile||{'name': 'razor-claw', 'url': 'https://pokeapi.co/api/v2/item/303/'}|||||||||False||||night||False|2024-08-09 10:49:15.051754
+461|sneasler||{'name': 'razor-claw', 'url': 'https://pokeapi.co/api/v2/item/303/'}|||||||||False||||day||False|2024-08-09 10:49:15.051754
+462|magneton||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+462|magnezone||||||{'name': 'mt-coronet', 'url': 'https://pokeapi.co/api/v2/location/10/'}|||||False||||||False|2024-08-09 10:49:15.051754
+463|lickilicky||||{'name': 'rollout', 'url': 'https://pokeapi.co/api/v2/move/205/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+464|rhydon||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+464|rhyperior||{'name': 'protector', 'url': 'https://pokeapi.co/api/v2/item/298/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+465|tangrowth||||{'name': 'ancient-power', 'url': 'https://pokeapi.co/api/v2/move/246/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+466|electabuzz||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+466|electivire||{'name': 'electirizer', 'url': 'https://pokeapi.co/api/v2/item/299/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+467|magmar||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+467|magmortar||{'name': 'magmarizer', 'url': 'https://pokeapi.co/api/v2/item/300/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+468|togetic|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+468|togekiss|||{'name': 'shiny-stone', 'url': 'https://pokeapi.co/api/v2/item/107/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+469|yanmega||||{'name': 'ancient-power', 'url': 'https://pokeapi.co/api/v2/move/246/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+470|vaporeon|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+470|jolteon|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+470|flareon|||{'name': 'fire-stone', 'url': 'https://pokeapi.co/api/v2/item/82/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+470|espeon|||||||||160||False||||day||False|2024-08-09 10:49:15.051754
+470|umbreon|||||||||160||False||||night||False|2024-08-09 10:49:15.051754
+470|leafeon||||||{'name': 'eterna-forest', 'url': 'https://pokeapi.co/api/v2/location/8/'}|||||False||||||False|2024-08-09 10:49:15.051754
+470|glaceon||||||{'name': 'sinnoh-route-217', 'url': 'https://pokeapi.co/api/v2/location/48/'}|||||False||||||False|2024-08-09 10:49:15.051754
+470|sylveon|||||{'name': 'fairy', 'url': 'https://pokeapi.co/api/v2/type/18/'}||2||||False||||||False|2024-08-09 10:49:15.051754
+471|vaporeon|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+471|jolteon|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+471|flareon|||{'name': 'fire-stone', 'url': 'https://pokeapi.co/api/v2/item/82/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+471|espeon|||||||||160||False||||day||False|2024-08-09 10:49:15.051754
+471|umbreon|||||||||160||False||||night||False|2024-08-09 10:49:15.051754
+471|leafeon||||||{'name': 'eterna-forest', 'url': 'https://pokeapi.co/api/v2/location/8/'}|||||False||||||False|2024-08-09 10:49:15.051754
+471|glaceon||||||{'name': 'sinnoh-route-217', 'url': 'https://pokeapi.co/api/v2/location/48/'}|||||False||||||False|2024-08-09 10:49:15.051754
+471|sylveon|||||{'name': 'fairy', 'url': 'https://pokeapi.co/api/v2/type/18/'}||2||||False||||||False|2024-08-09 10:49:15.051754
+472|gliscor||{'name': 'razor-fang', 'url': 'https://pokeapi.co/api/v2/item/304/'}|||||||||False||||night||False|2024-08-09 10:49:15.051754
+473|piloswine||||||||||33|False||||||False|2024-08-09 10:49:15.051754
+473|mamoswine||||{'name': 'ancient-power', 'url': 'https://pokeapi.co/api/v2/move/246/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+474|porygon2||{'name': 'up-grade', 'url': 'https://pokeapi.co/api/v2/item/229/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+474|porygon-z||{'name': 'dubious-disc', 'url': 'https://pokeapi.co/api/v2/item/301/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+475|kirlia||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+475|gardevoir||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+475|gallade|2||{'name': 'dawn-stone', 'url': 'https://pokeapi.co/api/v2/item/109/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+476|probopass||||||{'name': 'mt-coronet', 'url': 'https://pokeapi.co/api/v2/location/10/'}|||||False||||||False|2024-08-09 10:49:15.051754
+477|dusclops||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+477|dusknoir||{'name': 'reaper-cloth', 'url': 'https://pokeapi.co/api/v2/item/302/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+478|glalie||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+478|froslass|1||{'name': 'dawn-stone', 'url': 'https://pokeapi.co/api/v2/item/109/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+489|manaphy||||||||||||||||||2024-08-09 10:49:15.051754
+490|manaphy||||||||||||||||||2024-08-09 10:49:15.051754
+495|servine||||||||||17|False||||||False|2024-08-09 10:49:15.051754
+495|serperior||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+496|servine||||||||||17|False||||||False|2024-08-09 10:49:15.051754
+496|serperior||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+497|servine||||||||||17|False||||||False|2024-08-09 10:49:15.051754
+497|serperior||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+498|pignite||||||||||17|False||||||False|2024-08-09 10:49:15.051754
+498|emboar||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+499|pignite||||||||||17|False||||||False|2024-08-09 10:49:15.051754
+499|emboar||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+500|pignite||||||||||17|False||||||False|2024-08-09 10:49:15.051754
+500|emboar||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+501|dewott||||||||||17|False||||||False|2024-08-09 10:49:15.051754
+501|samurott||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+502|dewott||||||||||17|False||||||False|2024-08-09 10:49:15.051754
+502|samurott||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+503|dewott||||||||||17|False||||||False|2024-08-09 10:49:15.051754
+503|samurott||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+504|watchog||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+505|watchog||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+506|herdier||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+506|stoutland||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+507|herdier||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+507|stoutland||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+508|herdier||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+508|stoutland||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+509|liepard||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+510|liepard||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+511|simisage|||{'name': 'leaf-stone', 'url': 'https://pokeapi.co/api/v2/item/85/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+512|simisage|||{'name': 'leaf-stone', 'url': 'https://pokeapi.co/api/v2/item/85/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+513|simisear|||{'name': 'fire-stone', 'url': 'https://pokeapi.co/api/v2/item/82/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+514|simisear|||{'name': 'fire-stone', 'url': 'https://pokeapi.co/api/v2/item/82/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+515|simipour|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+516|simipour|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+517|musharna|||{'name': 'moon-stone', 'url': 'https://pokeapi.co/api/v2/item/81/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+518|musharna|||{'name': 'moon-stone', 'url': 'https://pokeapi.co/api/v2/item/81/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+519|tranquill||||||||||21|False||||||False|2024-08-09 10:49:15.051754
+519|unfezant||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+520|tranquill||||||||||21|False||||||False|2024-08-09 10:49:15.051754
+520|unfezant||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+521|tranquill||||||||||21|False||||||False|2024-08-09 10:49:15.051754
+521|unfezant||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+522|zebstrika||||||||||27|False||||||False|2024-08-09 10:49:15.051754
+523|zebstrika||||||||||27|False||||||False|2024-08-09 10:49:15.051754
+524|boldore||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+524|gigalith|||||||||||False||||||False|2024-08-09 10:49:15.051754
+525|boldore||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+525|gigalith|||||||||||False||||||False|2024-08-09 10:49:15.051754
+526|boldore||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+526|gigalith|||||||||||False||||||False|2024-08-09 10:49:15.051754
+527|swoobat|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+528|swoobat|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+529|excadrill||||||||||31|False||||||False|2024-08-09 10:49:15.051754
+530|excadrill||||||||||31|False||||||False|2024-08-09 10:49:15.051754
+532|gurdurr||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+532|conkeldurr|||||||||||False||||||False|2024-08-09 10:49:15.051754
+533|gurdurr||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+533|conkeldurr|||||||||||False||||||False|2024-08-09 10:49:15.051754
+534|gurdurr||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+534|conkeldurr|||||||||||False||||||False|2024-08-09 10:49:15.051754
+535|palpitoad||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+535|seismitoad||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+536|palpitoad||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+536|seismitoad||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+537|palpitoad||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+537|seismitoad||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+540|swadloon||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+540|leavanny|||||||||220||False||||||False|2024-08-09 10:49:15.051754
+541|swadloon||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+541|leavanny|||||||||220||False||||||False|2024-08-09 10:49:15.051754
+542|swadloon||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+542|leavanny|||||||||220||False||||||False|2024-08-09 10:49:15.051754
+543|whirlipede||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+543|scolipede||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+544|whirlipede||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+544|scolipede||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+545|whirlipede||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+545|scolipede||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+546|whimsicott|||{'name': 'sun-stone', 'url': 'https://pokeapi.co/api/v2/item/80/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+547|whimsicott|||{'name': 'sun-stone', 'url': 'https://pokeapi.co/api/v2/item/80/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+548|lilligant|||{'name': 'sun-stone', 'url': 'https://pokeapi.co/api/v2/item/80/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+549|lilligant|||{'name': 'sun-stone', 'url': 'https://pokeapi.co/api/v2/item/80/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+550|basculegion|||||||||||False||||||False|2024-08-09 10:49:15.051754
+551|krokorok||||||||||29|False||||||False|2024-08-09 10:49:15.051754
+551|krookodile||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+552|krokorok||||||||||29|False||||||False|2024-08-09 10:49:15.051754
+552|krookodile||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+553|krokorok||||||||||29|False||||||False|2024-08-09 10:49:15.051754
+553|krookodile||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+554|darmanitan||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+555|darmanitan||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+557|crustle||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+558|crustle||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+559|scrafty||||||||||39|False||||||False|2024-08-09 10:49:15.051754
+560|scrafty||||||||||39|False||||||False|2024-08-09 10:49:15.051754
+562|cofagrigus||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+562|runerigus|||||||||||False||||||False|2024-08-09 10:49:15.051754
+563|cofagrigus||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+563|runerigus|||||||||||False||||||False|2024-08-09 10:49:15.051754
+564|carracosta||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+565|carracosta||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+566|archeops||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+567|archeops||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+568|garbodor||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+569|garbodor||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+570|zoroark||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+571|zoroark||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+572|cinccino|||{'name': 'shiny-stone', 'url': 'https://pokeapi.co/api/v2/item/107/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+573|cinccino|||{'name': 'shiny-stone', 'url': 'https://pokeapi.co/api/v2/item/107/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+574|gothorita||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+574|gothitelle||||||||||41|False||||||False|2024-08-09 10:49:15.051754
+575|gothorita||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+575|gothitelle||||||||||41|False||||||False|2024-08-09 10:49:15.051754
+576|gothorita||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+576|gothitelle||||||||||41|False||||||False|2024-08-09 10:49:15.051754
+577|duosion||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+577|reuniclus||||||||||41|False||||||False|2024-08-09 10:49:15.051754
+578|duosion||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+578|reuniclus||||||||||41|False||||||False|2024-08-09 10:49:15.051754
+579|duosion||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+579|reuniclus||||||||||41|False||||||False|2024-08-09 10:49:15.051754
+580|swanna||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+581|swanna||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+582|vanillish||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+582|vanilluxe||||||||||47|False||||||False|2024-08-09 10:49:15.051754
+583|vanillish||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+583|vanilluxe||||||||||47|False||||||False|2024-08-09 10:49:15.051754
+584|vanillish||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+584|vanilluxe||||||||||47|False||||||False|2024-08-09 10:49:15.051754
+585|sawsbuck||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+586|sawsbuck||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+588|escavalier|||||||||||False|||||{'name': 'shelmet', 'url': 'https://pokeapi.co/api/v2/pokemon-species/616/'}|False|2024-08-09 10:49:15.051754
+589|escavalier|||||||||||False|||||{'name': 'shelmet', 'url': 'https://pokeapi.co/api/v2/pokemon-species/616/'}|False|2024-08-09 10:49:15.051754
+590|amoonguss||||||||||39|False||||||False|2024-08-09 10:49:15.051754
+591|amoonguss||||||||||39|False||||||False|2024-08-09 10:49:15.051754
+592|jellicent||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+593|jellicent||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+595|galvantula||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+596|galvantula||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+597|ferrothorn||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+598|ferrothorn||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+599|klang||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+599|klinklang||||||||||49|False||||||False|2024-08-09 10:49:15.051754
+600|klang||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+600|klinklang||||||||||49|False||||||False|2024-08-09 10:49:15.051754
+601|klang||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+601|klinklang||||||||||49|False||||||False|2024-08-09 10:49:15.051754
+602|eelektrik||||||||||39|False||||||False|2024-08-09 10:49:15.051754
+602|eelektross|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+603|eelektrik||||||||||39|False||||||False|2024-08-09 10:49:15.051754
+603|eelektross|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+604|eelektrik||||||||||39|False||||||False|2024-08-09 10:49:15.051754
+604|eelektross|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+605|beheeyem||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+606|beheeyem||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+607|lampent||||||||||41|False||||||False|2024-08-09 10:49:15.051754
+607|chandelure|||{'name': 'dusk-stone', 'url': 'https://pokeapi.co/api/v2/item/108/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+608|lampent||||||||||41|False||||||False|2024-08-09 10:49:15.051754
+608|chandelure|||{'name': 'dusk-stone', 'url': 'https://pokeapi.co/api/v2/item/108/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+609|lampent||||||||||41|False||||||False|2024-08-09 10:49:15.051754
+609|chandelure|||{'name': 'dusk-stone', 'url': 'https://pokeapi.co/api/v2/item/108/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+610|fraxure||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+610|haxorus||||||||||48|False||||||False|2024-08-09 10:49:15.051754
+611|fraxure||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+611|haxorus||||||||||48|False||||||False|2024-08-09 10:49:15.051754
+612|fraxure||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+612|haxorus||||||||||48|False||||||False|2024-08-09 10:49:15.051754
+613|beartic||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+614|beartic||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+616|accelgor|||||||||||False|||||{'name': 'karrablast', 'url': 'https://pokeapi.co/api/v2/pokemon-species/588/'}|False|2024-08-09 10:49:15.051754
+617|accelgor|||||||||||False|||||{'name': 'karrablast', 'url': 'https://pokeapi.co/api/v2/pokemon-species/588/'}|False|2024-08-09 10:49:15.051754
+619|mienshao||||||||||50|False||||||False|2024-08-09 10:49:15.051754
+620|mienshao||||||||||50|False||||||False|2024-08-09 10:49:15.051754
+622|golurk||||||||||43|False||||||False|2024-08-09 10:49:15.051754
+623|golurk||||||||||43|False||||||False|2024-08-09 10:49:15.051754
+624|bisharp||||||||||52|False||||||False|2024-08-09 10:49:15.051754
+624|kingambit|||||||||||False||||||False|2024-08-09 10:49:15.051754
+625|bisharp||||||||||52|False||||||False|2024-08-09 10:49:15.051754
+625|kingambit|||||||||||False||||||False|2024-08-09 10:49:15.051754
+627|braviary||||||||||54|False||||||False|2024-08-09 10:49:15.051754
+628|braviary||||||||||54|False||||||False|2024-08-09 10:49:15.051754
+629|mandibuzz||||||||||54|False||||||False|2024-08-09 10:49:15.051754
+630|mandibuzz||||||||||54|False||||||False|2024-08-09 10:49:15.051754
+633|zweilous||||||||||50|False||||||False|2024-08-09 10:49:15.051754
+633|hydreigon||||||||||64|False||||||False|2024-08-09 10:49:15.051754
+634|zweilous||||||||||50|False||||||False|2024-08-09 10:49:15.051754
+634|hydreigon||||||||||64|False||||||False|2024-08-09 10:49:15.051754
+635|zweilous||||||||||50|False||||||False|2024-08-09 10:49:15.051754
+635|hydreigon||||||||||64|False||||||False|2024-08-09 10:49:15.051754
+636|volcarona||||||||||59|False||||||False|2024-08-09 10:49:15.051754
+637|volcarona||||||||||59|False||||||False|2024-08-09 10:49:15.051754
+650|quilladin||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+650|chesnaught||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+651|quilladin||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+651|chesnaught||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+652|quilladin||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+652|chesnaught||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+653|braixen||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+653|delphox||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+654|braixen||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+654|delphox||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+655|braixen||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+655|delphox||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+656|frogadier||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+656|greninja||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+657|frogadier||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+657|greninja||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+658|frogadier||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+658|greninja||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+659|diggersby||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+660|diggersby||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+661|fletchinder||||||||||17|False||||||False|2024-08-09 10:49:15.051754
+661|talonflame||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+662|fletchinder||||||||||17|False||||||False|2024-08-09 10:49:15.051754
+662|talonflame||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+663|fletchinder||||||||||17|False||||||False|2024-08-09 10:49:15.051754
+663|talonflame||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+664|spewpa||||||||||9|False||||||False|2024-08-09 10:49:15.051754
+664|vivillon||||||||||12|False||||||False|2024-08-09 10:49:15.051754
+665|spewpa||||||||||9|False||||||False|2024-08-09 10:49:15.051754
+665|vivillon||||||||||12|False||||||False|2024-08-09 10:49:15.051754
+666|spewpa||||||||||9|False||||||False|2024-08-09 10:49:15.051754
+666|vivillon||||||||||12|False||||||False|2024-08-09 10:49:15.051754
+667|pyroar||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+668|pyroar||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+669|floette||||||||||19|False||||||False|2024-08-09 10:49:15.051754
+669|florges|||{'name': 'shiny-stone', 'url': 'https://pokeapi.co/api/v2/item/107/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+670|floette||||||||||19|False||||||False|2024-08-09 10:49:15.051754
+670|florges|||{'name': 'shiny-stone', 'url': 'https://pokeapi.co/api/v2/item/107/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+671|floette||||||||||19|False||||||False|2024-08-09 10:49:15.051754
+671|florges|||{'name': 'shiny-stone', 'url': 'https://pokeapi.co/api/v2/item/107/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+672|gogoat||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+673|gogoat||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+674|pangoro||||||||||32|False||{'name': 'dark', 'url': 'https://pokeapi.co/api/v2/type/17/'}||||False|2024-08-09 10:49:15.051754
+675|pangoro||||||||||32|False||{'name': 'dark', 'url': 'https://pokeapi.co/api/v2/type/17/'}||||False|2024-08-09 10:49:15.051754
+677|meowstic||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+678|meowstic||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+679|doublade||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+679|aegislash|||{'name': 'dusk-stone', 'url': 'https://pokeapi.co/api/v2/item/108/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+680|doublade||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+680|aegislash|||{'name': 'dusk-stone', 'url': 'https://pokeapi.co/api/v2/item/108/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+681|doublade||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+681|aegislash|||{'name': 'dusk-stone', 'url': 'https://pokeapi.co/api/v2/item/108/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+682|aromatisse||{'name': 'sachet', 'url': 'https://pokeapi.co/api/v2/item/687/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+683|aromatisse||{'name': 'sachet', 'url': 'https://pokeapi.co/api/v2/item/687/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+684|slurpuff||{'name': 'whipped-dream', 'url': 'https://pokeapi.co/api/v2/item/686/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+685|slurpuff||{'name': 'whipped-dream', 'url': 'https://pokeapi.co/api/v2/item/686/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+686|malamar||||||||||30|False||||||True|2024-08-09 10:49:15.051754
+687|malamar||||||||||30|False||||||True|2024-08-09 10:49:15.051754
+688|barbaracle||||||||||39|False||||||False|2024-08-09 10:49:15.051754
+689|barbaracle||||||||||39|False||||||False|2024-08-09 10:49:15.051754
+690|dragalge||||||||||48|False||||||False|2024-08-09 10:49:15.051754
+691|dragalge||||||||||48|False||||||False|2024-08-09 10:49:15.051754
+692|clawitzer||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+693|clawitzer||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+694|heliolisk|||{'name': 'sun-stone', 'url': 'https://pokeapi.co/api/v2/item/80/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+695|heliolisk|||{'name': 'sun-stone', 'url': 'https://pokeapi.co/api/v2/item/80/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+696|tyrantrum||||||||||39|False||||day||False|2024-08-09 10:49:15.051754
+697|tyrantrum||||||||||39|False||||day||False|2024-08-09 10:49:15.051754
+698|aurorus||||||||||39|False||||night||False|2024-08-09 10:49:15.051754
+699|aurorus||||||||||39|False||||night||False|2024-08-09 10:49:15.051754
+700|vaporeon|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+700|jolteon|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+700|flareon|||{'name': 'fire-stone', 'url': 'https://pokeapi.co/api/v2/item/82/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+700|espeon|||||||||160||False||||day||False|2024-08-09 10:49:15.051754
+700|umbreon|||||||||160||False||||night||False|2024-08-09 10:49:15.051754
+700|leafeon||||||{'name': 'eterna-forest', 'url': 'https://pokeapi.co/api/v2/location/8/'}|||||False||||||False|2024-08-09 10:49:15.051754
+700|glaceon||||||{'name': 'sinnoh-route-217', 'url': 'https://pokeapi.co/api/v2/location/48/'}|||||False||||||False|2024-08-09 10:49:15.051754
+700|sylveon|||||{'name': 'fairy', 'url': 'https://pokeapi.co/api/v2/type/18/'}||2||||False||||||False|2024-08-09 10:49:15.051754
+704|sliggoo||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+704|goodra||||||||||50|True||||||False|2024-08-09 10:49:15.051754
+705|sliggoo||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+705|goodra||||||||||50|True||||||False|2024-08-09 10:49:15.051754
+706|sliggoo||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+706|goodra||||||||||50|True||||||False|2024-08-09 10:49:15.051754
+708|trevenant|||||||||||False||||||False|2024-08-09 10:49:15.051754
+709|trevenant|||||||||||False||||||False|2024-08-09 10:49:15.051754
+710|gourgeist|||||||||||False||||||False|2024-08-09 10:49:15.051754
+711|gourgeist|||||||||||False||||||False|2024-08-09 10:49:15.051754
+712|avalugg||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+713|avalugg||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+714|noivern||||||||||48|False||||||False|2024-08-09 10:49:15.051754
+715|noivern||||||||||48|False||||||False|2024-08-09 10:49:15.051754
+722|dartrix||||||||||17|False||||||False|2024-08-09 10:49:15.051754
+722|decidueye||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+723|dartrix||||||||||17|False||||||False|2024-08-09 10:49:15.051754
+723|decidueye||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+724|dartrix||||||||||17|False||||||False|2024-08-09 10:49:15.051754
+724|decidueye||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+725|torracat||||||||||17|False||||||False|2024-08-09 10:49:15.051754
+725|incineroar||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+726|torracat||||||||||17|False||||||False|2024-08-09 10:49:15.051754
+726|incineroar||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+727|torracat||||||||||17|False||||||False|2024-08-09 10:49:15.051754
+727|incineroar||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+728|brionne||||||||||17|False||||||False|2024-08-09 10:49:15.051754
+728|primarina||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+729|brionne||||||||||17|False||||||False|2024-08-09 10:49:15.051754
+729|primarina||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+730|brionne||||||||||17|False||||||False|2024-08-09 10:49:15.051754
+730|primarina||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+731|trumbeak||||||||||14|False||||||False|2024-08-09 10:49:15.051754
+731|toucannon||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+732|trumbeak||||||||||14|False||||||False|2024-08-09 10:49:15.051754
+732|toucannon||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+733|trumbeak||||||||||14|False||||||False|2024-08-09 10:49:15.051754
+733|toucannon||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+734|gumshoos||||||||||20|False||||day||False|2024-08-09 10:49:15.051754
+735|gumshoos||||||||||20|False||||day||False|2024-08-09 10:49:15.051754
+736|charjabug||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+736|vikavolt|||||||||||False||||||False|2024-08-09 10:49:15.051754
+737|charjabug||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+737|vikavolt|||||||||||False||||||False|2024-08-09 10:49:15.051754
+738|charjabug||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+738|vikavolt|||||||||||False||||||False|2024-08-09 10:49:15.051754
+739|crabominable||||||{'name': 'mount-lanakila', 'url': 'https://pokeapi.co/api/v2/location/775/'}|||||False||||||False|2024-08-09 10:49:15.051754
+740|crabominable||||||{'name': 'mount-lanakila', 'url': 'https://pokeapi.co/api/v2/location/775/'}|||||False||||||False|2024-08-09 10:49:15.051754
+742|ribombee||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+743|ribombee||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+744|lycanroc||||||||||25|False||||day||False|2024-08-09 10:49:15.051754
+745|lycanroc||||||||||25|False||||day||False|2024-08-09 10:49:15.051754
+747|toxapex||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+748|toxapex||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+749|mudsdale||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+750|mudsdale||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+751|araquanid||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+752|araquanid||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+753|lurantis||||||||||34|False||||day||False|2024-08-09 10:49:15.051754
+754|lurantis||||||||||34|False||||day||False|2024-08-09 10:49:15.051754
+755|shiinotic||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+756|shiinotic||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+757|salazzle|1|||||||||33|False||||||False|2024-08-09 10:49:15.051754
+758|salazzle|1|||||||||33|False||||||False|2024-08-09 10:49:15.051754
+759|bewear||||||||||27|False||||||False|2024-08-09 10:49:15.051754
+760|bewear||||||||||27|False||||||False|2024-08-09 10:49:15.051754
+761|steenee||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+761|tsareena||||{'name': 'stomp', 'url': 'https://pokeapi.co/api/v2/move/23/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+762|steenee||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+762|tsareena||||{'name': 'stomp', 'url': 'https://pokeapi.co/api/v2/move/23/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+763|steenee||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+763|tsareena||||{'name': 'stomp', 'url': 'https://pokeapi.co/api/v2/move/23/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+767|golisopod||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+768|golisopod||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+769|palossand||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+770|palossand||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+772|silvally|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+773|silvally|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+782|hakamo-o||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+782|kommo-o||||||||||45|False||||||False|2024-08-09 10:49:15.051754
+783|hakamo-o||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+783|kommo-o||||||||||45|False||||||False|2024-08-09 10:49:15.051754
+784|hakamo-o||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+784|kommo-o||||||||||45|False||||||False|2024-08-09 10:49:15.051754
+789|cosmoem||||||||||43|False||||||False|2024-08-09 10:49:15.051754
+789|solgaleo||||||||||53|False||||||False|2024-08-09 10:49:15.051754
+789|lunala||||||||||53|False||||||False|2024-08-09 10:49:15.051754
+790|cosmoem||||||||||43|False||||||False|2024-08-09 10:49:15.051754
+790|solgaleo||||||||||53|False||||||False|2024-08-09 10:49:15.051754
+790|lunala||||||||||53|False||||||False|2024-08-09 10:49:15.051754
+791|cosmoem||||||||||43|False||||||False|2024-08-09 10:49:15.051754
+791|solgaleo||||||||||53|False||||||False|2024-08-09 10:49:15.051754
+791|lunala||||||||||53|False||||||False|2024-08-09 10:49:15.051754
+792|cosmoem||||||||||43|False||||||False|2024-08-09 10:49:15.051754
+792|solgaleo||||||||||53|False||||||False|2024-08-09 10:49:15.051754
+792|lunala||||||||||53|False||||||False|2024-08-09 10:49:15.051754
+803|naganadel||||{'name': 'dragon-pulse', 'url': 'https://pokeapi.co/api/v2/move/406/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+804|naganadel||||{'name': 'dragon-pulse', 'url': 'https://pokeapi.co/api/v2/move/406/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+810|thwackey||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+810|rillaboom||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+811|thwackey||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+811|rillaboom||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+812|thwackey||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+812|rillaboom||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+813|raboot||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+813|cinderace||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+814|raboot||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+814|cinderace||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+815|raboot||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+815|cinderace||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+816|drizzile||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+816|inteleon||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+817|drizzile||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+817|inteleon||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+818|drizzile||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+818|inteleon||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+819|greedent||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+820|greedent||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+821|corvisquire||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+821|corviknight||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+822|corvisquire||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+822|corviknight||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+823|corvisquire||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+823|corviknight||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+824|dottler||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+824|orbeetle||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+825|dottler||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+825|orbeetle||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+826|dottler||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+826|orbeetle||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+827|thievul||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+828|thievul||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+829|eldegoss||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+830|eldegoss||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+831|dubwool||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+832|dubwool||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+833|drednaw||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+834|drednaw||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+835|boltund||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+836|boltund||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+837|carkol||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+837|coalossal||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+838|carkol||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+838|coalossal||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+839|carkol||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+839|coalossal||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+840|flapple|||{'name': 'tart-apple', 'url': 'https://pokeapi.co/api/v2/item/1175/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+840|appletun|||{'name': 'sweet-apple', 'url': 'https://pokeapi.co/api/v2/item/1174/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+840|dipplin||||||||||||||||||2024-08-09 10:49:15.051754
+840|hydrapple||||||||||||||||||2024-08-09 10:49:15.051754
+841|flapple|||{'name': 'tart-apple', 'url': 'https://pokeapi.co/api/v2/item/1175/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+841|appletun|||{'name': 'sweet-apple', 'url': 'https://pokeapi.co/api/v2/item/1174/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+841|dipplin||||||||||||||||||2024-08-09 10:49:15.051754
+841|hydrapple||||||||||||||||||2024-08-09 10:49:15.051754
+842|flapple|||{'name': 'tart-apple', 'url': 'https://pokeapi.co/api/v2/item/1175/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+842|appletun|||{'name': 'sweet-apple', 'url': 'https://pokeapi.co/api/v2/item/1174/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+842|dipplin||||||||||||||||||2024-08-09 10:49:15.051754
+842|hydrapple||||||||||||||||||2024-08-09 10:49:15.051754
+843|sandaconda||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+844|sandaconda||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+846|barraskewda||||||||||26|False||||||False|2024-08-09 10:49:15.051754
+847|barraskewda||||||||||26|False||||||False|2024-08-09 10:49:15.051754
+848|toxtricity||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+849|toxtricity||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+850|centiskorch||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+851|centiskorch||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+852|grapploct||||{'name': 'taunt', 'url': 'https://pokeapi.co/api/v2/move/269/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+853|grapploct||||{'name': 'taunt', 'url': 'https://pokeapi.co/api/v2/move/269/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+854|polteageist|||{'name': 'cracked-pot', 'url': 'https://pokeapi.co/api/v2/item/1311/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+855|polteageist|||{'name': 'cracked-pot', 'url': 'https://pokeapi.co/api/v2/item/1311/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+856|hattrem||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+856|hatterene||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+857|hattrem||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+857|hatterene||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+858|hattrem||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+858|hatterene||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+859|morgrem||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+859|grimmsnarl||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+860|morgrem||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+860|grimmsnarl||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+861|morgrem||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+861|grimmsnarl||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+862|linoone||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+862|obstagoon||||||||||35|False||||night||False|2024-08-09 10:49:15.051754
+863|persian||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+863|perrserker||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+864|cursola||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+865|sirfetchd|||||||||||False||||||False|2024-08-09 10:49:15.051754
+866|mr-mime||||{'name': 'mimic', 'url': 'https://pokeapi.co/api/v2/move/102/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+866|mr-rime||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+867|cofagrigus||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+867|runerigus|||||||||||False||||||False|2024-08-09 10:49:15.051754
+868|alcremie|||||||||||False||||||False|2024-08-09 10:49:15.051754
+869|alcremie|||||||||||False||||||False|2024-08-09 10:49:15.051754
+872|frosmoth|||||||||160||False||||night||False|2024-08-09 10:49:15.051754
+873|frosmoth|||||||||160||False||||night||False|2024-08-09 10:49:15.051754
+878|copperajah||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+879|copperajah||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+884|archaludon||||||||||||||||||2024-08-09 10:49:15.051754
+885|drakloak||||||||||50|False||||||False|2024-08-09 10:49:15.051754
+885|dragapult||||||||||60|False||||||False|2024-08-09 10:49:15.051754
+886|drakloak||||||||||50|False||||||False|2024-08-09 10:49:15.051754
+886|dragapult||||||||||60|False||||||False|2024-08-09 10:49:15.051754
+887|drakloak||||||||||50|False||||||False|2024-08-09 10:49:15.051754
+887|dragapult||||||||||60|False||||||False|2024-08-09 10:49:15.051754
+891|urshifu|||||||||||False||||||False|2024-08-09 10:49:15.051754
+892|urshifu|||||||||||False||||||False|2024-08-09 10:49:15.051754
+899|wyrdeer||||{'name': 'psyshield-bash', 'url': 'https://pokeapi.co/api/v2/move/828/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+900|scizor||{'name': 'metal-coat', 'url': 'https://pokeapi.co/api/v2/item/210/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+900|kleavor|||{'name': 'black-augurite', 'url': 'https://pokeapi.co/api/v2/item/10001/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+901|ursaring||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+901|ursaluna|||{'name': 'peat-block', 'url': 'https://pokeapi.co/api/v2/item/10002/'}||||||||False||||full-moon||False|2024-08-09 10:49:15.051754
+902|basculegion|||||||||||False||||||False|2024-08-09 10:49:15.051754
+903|weavile||{'name': 'razor-claw', 'url': 'https://pokeapi.co/api/v2/item/303/'}|||||||||False||||night||False|2024-08-09 10:49:15.051754
+903|sneasler||{'name': 'razor-claw', 'url': 'https://pokeapi.co/api/v2/item/303/'}|||||||||False||||day||False|2024-08-09 10:49:15.051754
+904|overqwil||||{'name': 'barb-barrage', 'url': 'https://pokeapi.co/api/v2/move/839/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+906|floragato||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+906|meowscarada||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+907|floragato||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+907|meowscarada||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+908|floragato||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+908|meowscarada||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+909|crocalor||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+909|skeledirge||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+910|crocalor||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+910|skeledirge||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+911|crocalor||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+911|skeledirge||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+912|quaxwell||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+912|quaquaval||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+913|quaxwell||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+913|quaquaval||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+914|quaxwell||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+914|quaquaval||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+915|oinkologne||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+916|oinkologne||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+917|spidops||||||||||15|False||||||False|2024-08-09 10:49:15.051754
+918|spidops||||||||||15|False||||||False|2024-08-09 10:49:15.051754
+919|lokix||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+920|lokix||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+921|pawmo||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+921|pawmot|||||||||||False||||||False|2024-08-09 10:49:15.051754
+922|pawmo||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+922|pawmot|||||||||||False||||||False|2024-08-09 10:49:15.051754
+923|pawmo||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+923|pawmot|||||||||||False||||||False|2024-08-09 10:49:15.051754
+924|maushold||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+925|maushold||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+926|dachsbun||||||||||26|False||||||False|2024-08-09 10:49:15.051754
+927|dachsbun||||||||||26|False||||||False|2024-08-09 10:49:15.051754
+928|dolliv||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+928|arboliva||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+929|dolliv||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+929|arboliva||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+930|dolliv||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+930|arboliva||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+932|naclstack||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+932|garganacl||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+933|naclstack||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+933|garganacl||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+934|naclstack||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+934|garganacl||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+935|armarouge|||{'name': 'auspicious-armor', 'url': 'https://pokeapi.co/api/v2/item/2045/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+935|ceruledge|||{'name': 'malicious-armor', 'url': 'https://pokeapi.co/api/v2/item/1677/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+936|armarouge|||{'name': 'auspicious-armor', 'url': 'https://pokeapi.co/api/v2/item/2045/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+936|ceruledge|||{'name': 'malicious-armor', 'url': 'https://pokeapi.co/api/v2/item/1677/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+937|armarouge|||{'name': 'auspicious-armor', 'url': 'https://pokeapi.co/api/v2/item/2045/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+937|ceruledge|||{'name': 'malicious-armor', 'url': 'https://pokeapi.co/api/v2/item/1677/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+938|bellibolt|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+939|bellibolt|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+940|kilowattrel||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+941|kilowattrel||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+942|mabosstiff||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+943|mabosstiff||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+944|grafaiai||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+945|grafaiai||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+946|brambleghast|||||||||||False||||||False|2024-08-09 10:49:15.051754
+947|brambleghast|||||||||||False||||||False|2024-08-09 10:49:15.051754
+948|toedscruel||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+949|toedscruel||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+951|scovillain|||{'name': 'fire-stone', 'url': 'https://pokeapi.co/api/v2/item/82/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+952|scovillain|||{'name': 'fire-stone', 'url': 'https://pokeapi.co/api/v2/item/82/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+953|rabsca|||||||||||False||||||False|2024-08-09 10:49:15.051754
+954|rabsca|||||||||||False||||||False|2024-08-09 10:49:15.051754
+955|espathra||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+956|espathra||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+957|tinkatuff||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+957|tinkaton||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+958|tinkatuff||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+958|tinkaton||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+959|tinkatuff||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+959|tinkaton||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+960|wugtrio||||||||||26|False||||||False|2024-08-09 10:49:15.051754
+961|wugtrio||||||||||26|False||||||False|2024-08-09 10:49:15.051754
+963|palafin||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+964|palafin||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+965|revavroom||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+966|revavroom||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+969|glimmora||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+970|glimmora||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+971|houndstone||||||||||30|False||||night||False|2024-08-09 10:49:15.051754
+972|houndstone||||||||||30|False||||night||False|2024-08-09 10:49:15.051754
+974|cetitan|||{'name': 'ice-stone', 'url': 'https://pokeapi.co/api/v2/item/885/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+975|cetitan|||{'name': 'ice-stone', 'url': 'https://pokeapi.co/api/v2/item/885/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+979|primeape||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+979|annihilape|||||||||||False||||||False|2024-08-09 10:49:15.051754
+980|quagsire||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+980|clodsire||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+981|farigiraf||||{'name': 'twin-beam', 'url': 'https://pokeapi.co/api/v2/move/888/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+982|dudunsparce||||{'name': 'hyper-drill', 'url': 'https://pokeapi.co/api/v2/move/887/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+983|bisharp||||||||||52|False||||||False|2024-08-09 10:49:15.051754
+983|kingambit|||||||||||False||||||False|2024-08-09 10:49:15.051754
+996|arctibax||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+996|baxcalibur||||||||||54|False||||||False|2024-08-09 10:49:15.051754
+997|arctibax||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+997|baxcalibur||||||||||54|False||||||False|2024-08-09 10:49:15.051754
+998|arctibax||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+998|baxcalibur||||||||||54|False||||||False|2024-08-09 10:49:15.051754
+999|gholdengo|||||||||||False||||||False|2024-08-09 10:49:15.051754
+1000|gholdengo|||||||||||False||||||False|2024-08-09 10:49:15.051754
+1011|flapple|||{'name': 'tart-apple', 'url': 'https://pokeapi.co/api/v2/item/1175/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+1011|appletun|||{'name': 'sweet-apple', 'url': 'https://pokeapi.co/api/v2/item/1174/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+1011|dipplin||||||||||||||||||2024-08-09 10:49:15.051754
+1011|hydrapple||||||||||||||||||2024-08-09 10:49:15.051754
+1012|sinistcha||||||||||||||||||2024-08-09 10:49:15.051754
+1013|sinistcha||||||||||||||||||2024-08-09 10:49:15.051754
+1018|archaludon||||||||||||||||||2024-08-09 10:49:15.051754
+1019|flapple|||{'name': 'tart-apple', 'url': 'https://pokeapi.co/api/v2/item/1175/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+1019|appletun|||{'name': 'sweet-apple', 'url': 'https://pokeapi.co/api/v2/item/1174/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+1019|dipplin||||||||||||||||||2024-08-09 10:49:15.051754
+1019|hydrapple||||||||||||||||||2024-08-09 10:49:15.051754
+10004|wormadam|1|||||||||20|False||||||False|2024-08-09 10:49:15.051754
+10004|mothim|2|||||||||20|False||||||False|2024-08-09 10:49:15.051754
+10005|wormadam|1|||||||||20|False||||||False|2024-08-09 10:49:15.051754
+10005|mothim|2|||||||||20|False||||||False|2024-08-09 10:49:15.051754
+10016|basculegion|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10017|darmanitan||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+10025|meowstic||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+10026|doublade||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+10026|aegislash|||{'name': 'dusk-stone', 'url': 'https://pokeapi.co/api/v2/item/108/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10027|gourgeist|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10028|gourgeist|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10029|gourgeist|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10030|gourgeist|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10031|gourgeist|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10032|gourgeist|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10033|ivysaur||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+10033|venusaur||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+10034|charmeleon||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+10034|charizard||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+10035|charmeleon||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+10035|charizard||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+10036|wartortle||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+10036|blastoise||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+10037|kadabra||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+10037|alakazam|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10038|haunter||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+10038|gengar|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10041|gyarados||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+10045|flaaffy||||||||||15|False||||||False|2024-08-09 10:49:15.051754
+10045|ampharos||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+10046|scizor||{'name': 'metal-coat', 'url': 'https://pokeapi.co/api/v2/item/210/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+10046|kleavor|||{'name': 'black-augurite', 'url': 'https://pokeapi.co/api/v2/item/10001/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10048|houndoom||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+10049|pupitar||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+10049|tyranitar||||||||||55|False||||||False|2024-08-09 10:49:15.051754
+10050|combusken||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+10050|blaziken||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+10051|kirlia||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+10051|gardevoir||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+10051|gallade|2||{'name': 'dawn-stone', 'url': 'https://pokeapi.co/api/v2/item/109/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10053|lairon||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+10053|aggron||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+10054|medicham||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+10055|manectric||||||||||26|False||||||False|2024-08-09 10:49:15.051754
+10056|banette||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+10058|gabite||||||||||24|False||||||False|2024-08-09 10:49:15.051754
+10058|garchomp||||||||||48|False||||||False|2024-08-09 10:49:15.051754
+10059|lucario|||||||||160||False||||day||False|2024-08-09 10:49:15.051754
+10060|abomasnow||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+10061|floette||||||||||19|False||||||False|2024-08-09 10:49:15.051754
+10061|florges|||{'name': 'shiny-stone', 'url': 'https://pokeapi.co/api/v2/item/107/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10064|marshtomp||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+10064|swampert||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+10065|grovyle||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+10065|sceptile||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+10067|altaria||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+10068|kirlia||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+10068|gardevoir||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+10068|gallade|2||{'name': 'dawn-stone', 'url': 'https://pokeapi.co/api/v2/item/109/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10070|sharpedo||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+10071|slowbro||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+10071|slowking||{'name': 'kings-rock', 'url': 'https://pokeapi.co/api/v2/item/198/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+10072|steelix||{'name': 'metal-coat', 'url': 'https://pokeapi.co/api/v2/item/210/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+10073|pidgeotto||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+10073|pidgeot||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+10074|glalie||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+10074|froslass|1||{'name': 'dawn-stone', 'url': 'https://pokeapi.co/api/v2/item/109/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10076|metang||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+10076|metagross||||||||||45|False||||||False|2024-08-09 10:49:15.051754
+10080|pikachu|||||||||220||False||||||False|2024-08-09 10:49:15.051754
+10080|raichu|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10081|pikachu|||||||||220||False||||||False|2024-08-09 10:49:15.051754
+10081|raichu|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10082|pikachu|||||||||220||False||||||False|2024-08-09 10:49:15.051754
+10082|raichu|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10083|pikachu|||||||||220||False||||||False|2024-08-09 10:49:15.051754
+10083|raichu|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10084|pikachu|||||||||220||False||||||False|2024-08-09 10:49:15.051754
+10084|raichu|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10085|pikachu|||||||||220||False||||||False|2024-08-09 10:49:15.051754
+10085|raichu|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10087|camerupt||||||||||33|False||||||False|2024-08-09 10:49:15.051754
+10088|lopunny|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+10089|shelgon||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+10089|salamence||||||||||50|False||||||False|2024-08-09 10:49:15.051754
+10090|kakuna||||||||||7|False||||||False|2024-08-09 10:49:15.051754
+10090|beedrill||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+10091|raticate||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+10092|raticate||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+10093|raticate||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+10094|pikachu|||||||||220||False||||||False|2024-08-09 10:49:15.051754
+10094|raichu|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10095|pikachu|||||||||220||False||||||False|2024-08-09 10:49:15.051754
+10095|raichu|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10096|pikachu|||||||||220||False||||||False|2024-08-09 10:49:15.051754
+10096|raichu|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10097|pikachu|||||||||220||False||||||False|2024-08-09 10:49:15.051754
+10097|raichu|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10098|pikachu|||||||||220||False||||||False|2024-08-09 10:49:15.051754
+10098|raichu|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10099|pikachu|||||||||220||False||||||False|2024-08-09 10:49:15.051754
+10099|raichu|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10100|pikachu|||||||||220||False||||||False|2024-08-09 10:49:15.051754
+10100|raichu|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10101|sandslash||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+10102|sandslash||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+10103|ninetales|||{'name': 'fire-stone', 'url': 'https://pokeapi.co/api/v2/item/82/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10104|ninetales|||{'name': 'fire-stone', 'url': 'https://pokeapi.co/api/v2/item/82/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10105|dugtrio||||||||||26|False||||||False|2024-08-09 10:49:15.051754
+10106|dugtrio||||||||||26|False||||||False|2024-08-09 10:49:15.051754
+10107|persian||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+10107|perrserker||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+10108|persian||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+10108|perrserker||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+10109|graveler||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+10109|golem|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10110|graveler||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+10110|golem|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10111|graveler||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+10111|golem|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10112|muk||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+10113|muk||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+10114|exeggutor|||{'name': 'leaf-stone', 'url': 'https://pokeapi.co/api/v2/item/85/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10115|marowak||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+10116|frogadier||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+10116|greninja||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+10117|frogadier||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+10117|greninja||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+10121|gumshoos||||||||||20|False||||day||False|2024-08-09 10:49:15.051754
+10122|charjabug||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+10122|vikavolt|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10126|lycanroc||||||||||25|False||||day||False|2024-08-09 10:49:15.051754
+10128|lurantis||||||||||34|False||||day||False|2024-08-09 10:49:15.051754
+10129|salazzle|1|||||||||33|False||||||False|2024-08-09 10:49:15.051754
+10146|hakamo-o||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+10146|kommo-o||||||||||45|False||||||False|2024-08-09 10:49:15.051754
+10148|pikachu|||||||||220||False||||||False|2024-08-09 10:49:15.051754
+10148|raichu|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10149|marowak||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+10150|ribombee||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+10151|lycanroc||||||||||25|False||||day||False|2024-08-09 10:49:15.051754
+10152|lycanroc||||||||||25|False||||day||False|2024-08-09 10:49:15.051754
+10153|araquanid||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+10158|pikachu|||||||||220||False||||||False|2024-08-09 10:49:15.051754
+10158|raichu|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10159|vaporeon|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10159|jolteon|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10159|flareon|||{'name': 'fire-stone', 'url': 'https://pokeapi.co/api/v2/item/82/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10159|espeon|||||||||160||False||||day||False|2024-08-09 10:49:15.051754
+10159|umbreon|||||||||160||False||||night||False|2024-08-09 10:49:15.051754
+10159|leafeon||||||{'name': 'eterna-forest', 'url': 'https://pokeapi.co/api/v2/location/8/'}|||||False||||||False|2024-08-09 10:49:15.051754
+10159|glaceon||||||{'name': 'sinnoh-route-217', 'url': 'https://pokeapi.co/api/v2/location/48/'}|||||False||||||False|2024-08-09 10:49:15.051754
+10159|sylveon|||||{'name': 'fairy', 'url': 'https://pokeapi.co/api/v2/type/18/'}||2||||False||||||False|2024-08-09 10:49:15.051754
+10160|pikachu|||||||||220||False||||||False|2024-08-09 10:49:15.051754
+10160|raichu|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10161|persian||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+10161|perrserker||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+10162|rapidash||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+10163|rapidash||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+10164|slowbro||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+10164|slowking||{'name': 'kings-rock', 'url': 'https://pokeapi.co/api/v2/item/198/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+10165|slowbro||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+10165|slowking||{'name': 'kings-rock', 'url': 'https://pokeapi.co/api/v2/item/198/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+10166|sirfetchd|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10167|weezing||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+10168|mr-mime||||{'name': 'mimic', 'url': 'https://pokeapi.co/api/v2/move/102/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+10168|mr-rime||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+10172|slowbro||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+10172|slowking||{'name': 'kings-rock', 'url': 'https://pokeapi.co/api/v2/item/198/'}|||||||||False||||||False|2024-08-09 10:49:15.051754
+10173|cursola||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+10174|linoone||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+10174|obstagoon||||||||||35|False||||night||False|2024-08-09 10:49:15.051754
+10175|linoone||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+10175|obstagoon||||||||||35|False||||night||False|2024-08-09 10:49:15.051754
+10176|darmanitan||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+10177|darmanitan||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+10178|darmanitan||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+10179|cofagrigus||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+10179|runerigus|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10184|toxtricity||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+10191|urshifu|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10195|ivysaur||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+10195|venusaur||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+10196|charmeleon||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+10196|charizard||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+10197|wartortle||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+10197|blastoise||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+10198|metapod||||||||||7|False||||||False|2024-08-09 10:49:15.051754
+10198|butterfree||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+10199|pikachu|||||||||220||False||||||False|2024-08-09 10:49:15.051754
+10199|raichu|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10200|persian||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+10200|perrserker||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+10201|machoke||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+10201|machamp|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10202|haunter||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+10202|gengar|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10203|kingler||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+10205|vaporeon|||{'name': 'water-stone', 'url': 'https://pokeapi.co/api/v2/item/84/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10205|jolteon|||{'name': 'thunder-stone', 'url': 'https://pokeapi.co/api/v2/item/83/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10205|flareon|||{'name': 'fire-stone', 'url': 'https://pokeapi.co/api/v2/item/82/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10205|espeon|||||||||160||False||||day||False|2024-08-09 10:49:15.051754
+10205|umbreon|||||||||160||False||||night||False|2024-08-09 10:49:15.051754
+10205|leafeon||||||{'name': 'eterna-forest', 'url': 'https://pokeapi.co/api/v2/location/8/'}|||||False||||||False|2024-08-09 10:49:15.051754
+10205|glaceon||||||{'name': 'sinnoh-route-217', 'url': 'https://pokeapi.co/api/v2/location/48/'}|||||False||||||False|2024-08-09 10:49:15.051754
+10205|sylveon|||||{'name': 'fairy', 'url': 'https://pokeapi.co/api/v2/type/18/'}||2||||False||||||False|2024-08-09 10:49:15.051754
+10206|snorlax|||||||||160||False||||||False|2024-08-09 10:49:15.051754
+10207|garbodor||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+10209|thwackey||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+10209|rillaboom||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+10210|raboot||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+10210|cinderace||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+10211|drizzile||||||||||16|False||||||False|2024-08-09 10:49:15.051754
+10211|inteleon||||||||||35|False||||||False|2024-08-09 10:49:15.051754
+10212|corvisquire||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+10212|corviknight||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+10213|dottler||||||||||10|False||||||False|2024-08-09 10:49:15.051754
+10213|orbeetle||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+10214|drednaw||||||||||22|False||||||False|2024-08-09 10:49:15.051754
+10215|carkol||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+10215|coalossal||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+10216|flapple|||{'name': 'tart-apple', 'url': 'https://pokeapi.co/api/v2/item/1175/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10216|appletun|||{'name': 'sweet-apple', 'url': 'https://pokeapi.co/api/v2/item/1174/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10216|dipplin||||||||||||||||||2024-08-09 10:49:15.051754
+10216|hydrapple||||||||||||||||||2024-08-09 10:49:15.051754
+10217|flapple|||{'name': 'tart-apple', 'url': 'https://pokeapi.co/api/v2/item/1175/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10217|appletun|||{'name': 'sweet-apple', 'url': 'https://pokeapi.co/api/v2/item/1174/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10217|dipplin||||||||||||||||||2024-08-09 10:49:15.051754
+10217|hydrapple||||||||||||||||||2024-08-09 10:49:15.051754
+10218|sandaconda||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+10219|toxtricity||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+10220|centiskorch||||||||||28|False||||||False|2024-08-09 10:49:15.051754
+10221|hattrem||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+10221|hatterene||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+10222|morgrem||||||||||32|False||||||False|2024-08-09 10:49:15.051754
+10222|grimmsnarl||||||||||42|False||||||False|2024-08-09 10:49:15.051754
+10223|alcremie|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10224|copperajah||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+10225|archaludon||||||||||||||||||2024-08-09 10:49:15.051754
+10226|urshifu|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10227|urshifu|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10228|toxtricity||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+10229|arcanine|||{'name': 'fire-stone', 'url': 'https://pokeapi.co/api/v2/item/82/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10230|arcanine|||{'name': 'fire-stone', 'url': 'https://pokeapi.co/api/v2/item/82/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10231|electrode||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+10232|electrode||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+10233|quilava||||||||||14|False||||||False|2024-08-09 10:49:15.051754
+10233|typhlosion||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+10234|overqwil||||{'name': 'barb-barrage', 'url': 'https://pokeapi.co/api/v2/move/839/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+10235|weavile||{'name': 'razor-claw', 'url': 'https://pokeapi.co/api/v2/item/303/'}|||||||||False||||night||False|2024-08-09 10:49:15.051754
+10235|sneasler||{'name': 'razor-claw', 'url': 'https://pokeapi.co/api/v2/item/303/'}|||||||||False||||day||False|2024-08-09 10:49:15.051754
+10236|dewott||||||||||17|False||||||False|2024-08-09 10:49:15.051754
+10236|samurott||||||||||36|False||||||False|2024-08-09 10:49:15.051754
+10237|lilligant|||{'name': 'sun-stone', 'url': 'https://pokeapi.co/api/v2/item/80/'}||||||||False||||||False|2024-08-09 10:49:15.051754
+10238|zoroark||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+10239|zoroark||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+10240|braviary||||||||||54|False||||||False|2024-08-09 10:49:15.051754
+10241|sliggoo||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+10241|goodra||||||||||50|True||||||False|2024-08-09 10:49:15.051754
+10242|sliggoo||||||||||40|False||||||False|2024-08-09 10:49:15.051754
+10242|goodra||||||||||50|True||||||False|2024-08-09 10:49:15.051754
+10243|avalugg||||||||||37|False||||||False|2024-08-09 10:49:15.051754
+10244|dartrix||||||||||17|False||||||False|2024-08-09 10:49:15.051754
+10244|decidueye||||||||||34|False||||||False|2024-08-09 10:49:15.051754
+10247|basculegion|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10248|basculegion|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10253|quagsire||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+10253|clodsire||||||||||20|False||||||False|2024-08-09 10:49:15.051754
+10254|oinkologne||||||||||18|False||||||False|2024-08-09 10:49:15.051754
+10255|dudunsparce||||{'name': 'hyper-drill', 'url': 'https://pokeapi.co/api/v2/move/887/'}|||||||False||||||False|2024-08-09 10:49:15.051754
+10256|palafin||||||||||38|False||||||False|2024-08-09 10:49:15.051754
+10257|maushold||||||||||25|False||||||False|2024-08-09 10:49:15.051754
+10263|gholdengo|||||||||||False||||||False|2024-08-09 10:49:15.051754
+10272|ursaring||||||||||30|False||||||False|2024-08-09 10:49:15.051754
+10272|ursaluna|||{'name': 'peat-block', 'url': 'https://pokeapi.co/api/v2/item/10002/'}||||||||False||||full-moon||False|2024-08-09 10:49:15.051754
